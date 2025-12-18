@@ -29,5 +29,5 @@ A concise, description name of the dashboard.
      Forecast sales: 1 months forecast of amazon sales.
 
 6. 🖼️ Dashboard Preview / Screenshot
-      The dashboard look like: https://github.com/imdadnan/Sales-Dashboard-/blob/main/Dashboard%20Screenshot%20.png
-      The 1 months sales forecast look like: https://github.com/imdadnan/Sales-Dashboard-/blob/main/Forecast%20Screenshot%20.png
+   The dashboard look like: https://github.com/imdadnan/Sales-Dashboard-/blob/main/Dashboard%20Screenshot%20.png 
+   The 1 months sales forecast look like: https://github.com/imdadnan/Sales-Dashboard-/blob/main/Forecast%20Screenshot%20.png
