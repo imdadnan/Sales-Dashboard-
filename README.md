@@ -29,4 +29,4 @@ drive of my dashboard : customer reviews, high sales of which product, how much 
 Forecast sales: 1 months forecast of amazon sales.
 
 6. 🖼️ Dashboard Preview / Screenshot
-The dashboard look like: 
+The dashboard look like: https://github.com/imdadnan/Sales-Dashboard-/blob/main/Dashboard%20Screenshot%20.png
