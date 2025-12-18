@@ -28,6 +28,6 @@ A concise, description name of the dashboard.
      drive of my dashboard : customer reviews, high sales of which product, how much revenue, 
      Forecast sales: 1 months forecast of amazon sales.
 
-6. 🖼️ Dashboard Preview / Screenshot
+6. 🖼️Dashboard Preview / Screenshot
    The dashboard look like: https://github.com/imdadnan/Sales-Dashboard-/blob/main/Dashboard%20Screenshot%20.png 
    The 1 months sales forecast look like: https://github.com/imdadnan/Sales-Dashboard-/blob/main/Forecast%20Screenshot%20.png
