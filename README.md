@@ -19,7 +19,6 @@ more info on where the data comes from and how it's structured
 ssource: Kaggle
 
 ✨5. Features & Highlights
-
 Interactive Power BI Dashboard
 Fully interactive visuals with slicers for category and product-level analysis
 Business-Ready Dashboard Design
